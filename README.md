@@ -32,3 +32,15 @@ There is an ever expanding FAQ that you can check out. If that does not solve th
 
 ## Credits
 You can view the contribution of people in [the credits page](https://github.com/CoolAbhi1290/Bash/blob/master/CREDITS.md).
+
+## Badges
+[![Discord Server](https://img.shields.io/discord/734786591205359697?color=%237289da&label=DISCORD&style=for-the-badge)](https://discord.gg/egfSWJW)
+
+[![GitHub issues](https://img.shields.io/github/issues/CoolAbhi1290/Bash?color=rgb%28255%2C%2050%2C%2070%29&style=for-the-badge)](https://github.com/CoolAbhi1290/Bash/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/CoolAbhi1290/Bash?color=rgb%2820%2C%20230%2C%20100%29&style=for-the-badge)](https://github.com/CoolAbhi1290/Bash/issues/)
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/CoolAbhi1290/Bash?color=rgb%28255%2C%20200%2C%20100%29&style=for-the-badge)](https://github.com/CoolAbhi1290/Bash/)
+[![GitHub watchers](https://img.shields.io/github/watchers/CoolAbhi1290/Bash?color=rgb%28220%2C%20220%2C%20230%29&style=for-the-badge)](https://github.com/CoolAbhi1290/Bash/)
+
+[![](https://img.shields.io/badge/Public%20Version-v0.36.0--alpha-rgb(20%2C%20230%2C%20100)?style=for-the-badge)]()
+[![](https://img.shields.io/badge/Dev%20Version-v0.37.0--alpha-rgb(255%2C200%2C100)?style=for-the-badge)]()
